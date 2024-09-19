@@ -1,0 +1,11 @@
+qdrant_storage/
+uniprot_json/
+cheat_sheet.txt
+
+*.h5
+*.json
+*.fasta
+
+.env
+
+__pycache__/
